@@ -1,0 +1,12 @@
+1- Pegue o ovo 
+2- Pegue a frigideira 
+3- Pegue uma tampa para a frigideira
+3- Pegue o óleo
+4- Pegue o sal
+5- Abra o ovo em um recipiente 
+6- Verifique se o ovo está em bom estado 
+7- Ligue o fogo e coloque a frigideira sobre 
+8- Coloque um fio de óleo
+9- Coloque o ovo
+10- Coloque o sal
+11- Deslique o fogo quando o ovo estiver proprio para consumo 
